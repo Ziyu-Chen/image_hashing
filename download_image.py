@@ -2,7 +2,7 @@ import requests
 from PIL import Image
 from choose_headers_randomly import choose_headers_randomly
 
-directory_path = '/Users/Ziyu/OneDrive - Clarivate Analytics/Desktop/maxell/'
+directory_path = '/Users/Ziyu/OneDrive - Clarivate Analytics/Desktop/lego/'
 
 def download_image(url):
     image_path = directory_path

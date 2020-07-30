@@ -3,7 +3,7 @@ import pandas as pd
 from PIL import Image
 from download_image import download_image
 
-data_path = '/Users/Ziyu/OneDrive - Clarivate Analytics/Desktop/maxell/bukalapak_search_maxell_colored_test.csv'
+data_path = '/Users/Ziyu/OneDrive - Clarivate Analytics/Desktop/panasonic/panasonic_blue_colored.csv'
 
 data = pd.read_csv(data_path)
 
